@@ -8,7 +8,9 @@
     "browser-sync": "^2.26.13",
     "html-validate": "^4.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mkdirp": "^1.0.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
